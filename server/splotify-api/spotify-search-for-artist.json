@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://api.spotify.com/v1/search",
+  "headers": {
+    "accept": "application/json",
+    "options": {
+      "strictSSL": false
+    }
+  },
+  "query": {
+    "query": "q",
+    "itemType": "{type=artist}"
+  }
+}

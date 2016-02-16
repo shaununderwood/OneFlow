@@ -16,6 +16,7 @@
     "loopback-component-explorer": "^2.1.0",
     "loopback-connector-rest": "^1.10.1",
     "loopback-datasource-juggler": "^2.39.0",
+    "node-promise": "^0.5.12",
     "serve-favicon": "^2.0.1"
   },
   "devDependencies": {

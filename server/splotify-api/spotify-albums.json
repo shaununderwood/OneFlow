@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://api.spotify.com/v1/artists/{id}/albums",
+  "headers": {
+    "accept": "application/json",
+    "options": {
+      "strictSSL": false
+    }
+  },
+  "query": {
+    "query": "id",
+    "itemType": "{type=artist}"
+  }
+}
